@@ -57,7 +57,7 @@ https://playentry.org/project/69ec9ba8daf7a630df2950dd
 ## 코드 예시
 
 ### Hello, World!
-6^*AM9+^+AM7^+++++*AMM7^++++++*+AM7^-----AM4^*AM9++^--AM5^*+++++*+AM9++^-------AM5^++**AM9+^AM4^*+AM
+6^*AM9+^+M7^+++++*MM7^++++++*+M7^-----M4^*M9++^--M5^*+++++*+M9++^-------M5^++**M9+^M4^*+M
 
 ## License
 None
