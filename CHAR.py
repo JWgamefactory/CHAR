@@ -305,7 +305,7 @@ def run(code):
 
         # @: jwjwlove16 유튜브 홍보
         elif cmd == "@":
-            print("\nhttps://www.youtube.com/@jwjwlove16\n쥬러브16ㅠ 유튜브 많이 사랑해주세요\n")
+            print("\nhttps://www.youtube.com/@jwjwlove16\nSubscribe my YT channel plz\n")
 
         # $: 원-->달러
         elif cmd == "$":
